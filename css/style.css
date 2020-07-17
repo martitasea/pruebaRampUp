@@ -1,0 +1,166 @@
+/* ------------------------------ESTILOS GENERALES------------------------------ */
+* {
+  font-family: "Lexend Zetta", sans-serif;
+  font-size: 14px;
+}
+a:hover {
+  color: rgb(255, 187, 0);
+  font-weight: 600;
+ 
+}
+a {
+  text-decoration: none;
+  color: rgb(56, 55, 55);
+}
+p {
+  font-family: "Montserrat", sans-serif;
+  line-height: 18px;
+}
+h2 {
+    font-size: 20px;
+    color: rgb(255, 187, 0);
+    font-weight: 500px;
+  }
+/* ------------------------------HEADER------------------------------ */
+#corporativo {
+   /* background-color: red; */
+  height: 80px;
+  display: flex;
+  justify-content: center;
+}
+#corporativo img {
+  width: 50px;
+  height: auto;
+  margin: 10px;
+}
+h1 {
+    font-family: "Shadows Into Light", cursive;
+    font-size: 40px;
+    color: rgb(255, 187, 0);
+    font-weight: 700;
+    padding-top:25px;
+}
+#corporativo a {
+  background-color: rgb(255, 187, 0);
+  padding: 12px;
+  border-radius: 4px;
+  position: absolute;
+  top: 30px;
+  /* margin-left: 20%; */
+  left: 80%;
+  width: 140px;
+  height: 16px;
+}
+#corporativo a:hover {
+  background-color: rgb(255, 187, 0);
+  color: white;
+  padding: 12px;
+  border-radius: 4px;
+}
+/* ------------------------------NAVEGACIÓN------------------------------ */
+#menuPrincipal {
+    display: flex;
+    justify-content: center;
+    
+    /* position: relative;
+    top: 35px;
+    left: 27%; */
+}
+#menuPrincipal ul li {
+  display: inline-block;
+  
+}
+#menuPrincipal ul li a {
+  padding: 0px 20px;
+  text-align: center;  
+}
+/* ------------------------------CONTENIDO PRINCIPAL------------------------------ */
+#contenidoPrincipal {
+  display: flex;
+  justify-content: space-around;  
+}
+#contenidoPrincipal aside {
+  margin: 10px;
+  border: 2px solid rgb(255, 187, 0);
+  border-radius: 5px;
+  padding: 10px;
+  }
+#contenidoPrincipal img {
+  opacity: 0.5;
+  width: 50%;
+}
+#contenidoPrincipal article {
+  margin: 10px;
+  border: 2px solid rgb(255, 187, 0);
+  border-radius: 5px;
+  padding: 10px;
+}
+#contenidoPrincipal article p {
+  margin-top: 5px;
+}
+
+/* ------------------------------FOOTER------------------------------ */
+#footerPagina {
+  height: 120px;
+    margin: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  background-color:rgb(255, 187, 0);
+  border-radius: 5px;
+  color: white;
+}
+#footerPagina nav{
+    line-height: 20px;
+}
+#footerPagina ul{
+    line-height: 20px;
+}
+#footerPagina ul li a:hover{
+    color:white;;
+}
+/* ------------------------------FORMULARIO------------------------------ */
+#formulario {
+  width: 70%;
+  position:absolute;
+  left: 22%;
+  top: 120px;
+}
+
+#formulario div:first-of-type {
+    margin: 10px;
+    border: 2px solid rgb(255, 187, 0);
+    padding: 15px;
+    line-height: 30px;
+    border-radius: 5px;
+}
+.botForm {
+    margin: 10px ;
+    padding: 5px;
+    background-color: rgb(255, 187, 0);
+    border: 2px solid rgb(255, 187, 0);
+    color: white;
+    border-radius: 5px;
+}
+.botForm:hover {
+    margin: 10px;
+    padding: 5px;
+    
+    background-color: white;
+    color: rgb(255, 187, 0);
+    border: 2px solid rgb(255, 187, 0);
+    border-radius: 5px;
+}
+
+} */
+/* width: 50%;
+  display: flex;
+ flex-direction: column;
+  position: absolute;
+  top: 125px;
+  
+  
+   */
+  
+  /*border-radius: 5px; */
